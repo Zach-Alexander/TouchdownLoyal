@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="550" MadCap:lastWidth="1166">
+    <head>
+    </head>
+    <body>
+        <p>In their <b class="Synonym">previous week’s game</b> <b class="Synonym">against</b> the <MadCap:variable name="TouchdownLoyal.teamNameHomePrior" />, the <MadCap:variable name="TouchdownLoyal.teamNameHomeNN" /> <MadCap:snippetText src="../playerPositionsFull.flsnp" />s <cite class="AltScen">had a standout game</cite>. <MadCap:variable name="TouchdownLoyal.teamNameHomeLoc" />’s <MadCap:snippetText src="../playerPositions.flsnp" />s <MadCap:conditionalText MadCap:conditions="General.TightEnd,General.WideReceiver">caught</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack">were handed off</MadCap:conditionalText> <MadCap:variable name="TouchdownLoyal.statTwo" /> <MadCap:snippetText src="../FeaturedStat5.flsnp" /> <b class="Synonym">combined for</b> <MadCap:variable name="TouchdownLoyal.statTwo" /> <MadCap:snippetText src="../FeaturedStat2.flsnp" />. <MadCap:variable name="TouchdownLoyal.playerName1Last" /> <b class="Synonym">led the</b> <MadCap:variable name="TouchdownLoyal.teamNameHomeNN" />’  <MadCap:snippetText src="../playerPositionsFull.flsnp" /> <b class="Synonym">corps</b> by <MadCap:conditionalText MadCap:conditions="General.TightEnd,General.WideReceiver">receiving</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack">rushing</MadCap:conditionalText> <MadCap:variable name="TouchdownLoyal.statTwo" /> <MadCap:conditionalText MadCap:conditions="General.TightEnd,General.WideReceiver">passes</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack">times</MadCap:conditionalText> <b class="Synonym">total</b> for <MadCap:variable name="TouchdownLoyal.statTwo" /> <MadCap:conditionalText MadCap:conditions="General.RunningBack,General.TightEnd,General.WideReceiver">yards</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions=""><MadCap:conditionalText MadCap:conditions=""><MadCap:conditionalText MadCap:conditions="General.RunningBack,General.TightEnd,General.WideReceiver"> <![CDATA[ ]]></MadCap:conditionalText></MadCap:conditionalText></MadCap:conditionalText>and <MadCap:variable name="TouchdownLoyal.statTwo" /> <MadCap:snippetText src="../FeaturedStat3.flsnp" />. <b class="Synonym">On the other side of the field</b>, the <MadCap:variable name="TouchdownLoyal.teamNameAwayNN" /> <MadCap:snippetText src="../playerPositions.flsnp" />s <MadCap:conditionalText MadCap:conditions="General.WideReceiver,General.TightEnd">caught</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack">receiv<MadCap:conditionalText MadCap:conditions="General.RunningBack">ed</MadCap:conditionalText> the ball</MadCap:conditionalText> <MadCap:variable name="TouchdownLoyal.statTwo" /> <MadCap:conditionalText MadCap:conditions="General.TightEnd,General.WideReceiver">passes</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack">times</MadCap:conditionalText> for <MadCap:variable name="TouchdownLoyal.statTwo" /><![CDATA[  ]]><MadCap:conditionalText MadCap:conditions="General.WideReceiver,General.TightEnd,General.RunningBack"> yards </MadCap:conditionalText>and <MadCap:variable name="TouchdownLoyal.statTwo" /> <MadCap:snippetText src="../FeaturedStat4.flsnp" /> in their <b class="Synonym">prior game</b> <b class="Synonym">against</b> the <MadCap:variable name="TouchdownLoyal.teamNameAwayPrior" />. <MadCap:variable name="TouchdownLoyal.playerName2" /> worked his way down the field <b class="Synonym">against</b> the <MadCap:variable name="TouchdownLoyal.teamNameAwayPriorNN" />, <b class="Synonym" MadCap:conditions="General.TightEnd,General.WideReceiver">receiving</b><MadCap:conditionalText MadCap:conditions="General.RunningBack">digging in for</MadCap:conditionalText> <MadCap:variable name="TouchdownLoyal.statTwo" /> <MadCap:snippetText src="../FeaturedStat5.flsnp" /> for <MadCap:variable name="TouchdownLoyal.statTwo" /> <MadCap:conditionalText MadCap:conditions="General.WideReceiver,General.TightEnd,General.RunningBack">yards </MadCap:conditionalText>and <MadCap:variable name="TouchdownLoyal.statTwo" /> <MadCap:snippetText src="../FeaturedStat4.flsnp" />.</p>
+        <div MadCap:conditions="General.InternalNote">
+            <h2>
+                <MadCap:toggler targets="AlternateScenarios_KeyPlayerPrior">Alternate Scenarios</MadCap:toggler>
+            </h2>
+            <div MadCap:targetName="AlternateScenarios_KeyPlayerPrior">
+                <h3>
+                    <MadCap:toggler targets="Prior game 1">Prior game 1</MadCap:toggler>
+                </h3>
+                <table MadCap:targetName="Prior game 1">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td> <MadCap:snippetText src="../FeaturedStat5.flsnp" /> were 26% &gt;&#160;average</td>
+                            <td>had a <b class="Synonym">standout </b>game</td>
+                        </tr>
+                        <tr>
+                            <td> <MadCap:snippetText src="../FeaturedStat5.flsnp" /> are +/- 25% of average</td>
+                            <td>had a <b class="Synonym">typical </b>game</td>
+                        </tr>
+                        <tr>
+                            <td> <MadCap:snippetText src="../FeaturedStat5.flsnp" /> were 26% &lt; average</td>
+                            <td>had an <b class="Synonym">anemic </b>game</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3>
+                    <MadCap:toggler targets="Prior game 2">Prior game 2</MadCap:toggler>
+                </h3>
+                <table MadCap:targetName="Prior game 2">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td> <MadCap:snippetText src="../FeaturedStat5.flsnp" /> were 26% &gt;&#160;average</td>
+                            <td>Excelled down the field</td>
+                        </tr>
+                        <tr>
+                            <td> <MadCap:snippetText src="../FeaturedStat5.flsnp" /> are +/- 25% of average</td>
+                            <td>worked his way down the field</td>
+                        </tr>
+                        <tr>
+                            <td> <MadCap:snippetText src="../FeaturedStat5.flsnp" /> were 26% &lt; average</td>
+                            <td>struggled to get down the field</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

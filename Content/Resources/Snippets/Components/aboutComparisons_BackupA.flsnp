@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="516" MadCap:lastWidth="936">
+    <head>
+    </head>
+    <body>
+        <p>If <MadCap:variable name="TouchdownLoyal.playerName1Last" /> is injured, expect <MadCap:variable name="TouchdownLoyal.coachName" /> to <b class="Synonym">pull</b> <MadCap:variable name="TouchdownLoyal.playerNameBackup1" /> <b class="Synonym">off the bench</b>. <cite class="AltScen">During his <MadCap:variable name="TouchdownLoyal.league" /> career, <MadCap:variable name="TouchdownLoyal.playerNameBackup1Last" /> has completed <MadCap:variable name="TouchdownLoyal.statTwo" /> of <MadCap:variable name="TouchdownLoyal.statTwo" /> passes for <MadCap:variable name="TouchdownLoyal.statThree" /> yards and <MadCap:variable name="TouchdownLoyal.statTwo" /> touchdowns</cite>. <MadCap:annotation MadCap:createDate="2016-06-01T11:49:36.4764082-05:00" MadCap:creator="Zach" MadCap:initials="ZA" MadCap:comment="Only use sentence if there is a backup player." MadCap:editor="Zach" MadCap:editDate="2016-06-01T11:49:48.1332968-05:00">The <MadCap:variable name="TouchdownLoyal.teamNameHomeNN" /> could also throw <MadCap:variable name="TouchdownLoyal.playerNameBackup2" /> into the game. <MadCap:variable name="TouchdownLoyal.playerNameBackup2Last" /> has completed <MadCap:variable name="TouchdownLoyal.statTwo" /> of <MadCap:variable name="TouchdownLoyal.statTwo" /> passes for <MadCap:variable name="TouchdownLoyal.statThree" /> yards and scored <MadCap:variable name="TouchdownLoyal.statTwo" /> touchdowns in his career</MadCap:annotation>. The <MadCap:variable name="TouchdownLoyal.teamNameAwayNN" /> have <MadCap:variable name="TouchdownLoyal.statTwo" /> backup  <MadCap:snippetText src="../playerPositionsFull.flsnp" />s on their bench who could step in if <MadCap:variable name="TouchdownLoyal.playerName2Last" /> were injured—<MadCap:variable name="TouchdownLoyal.playerNameBackup1" /> or <MadCap:variable name="TouchdownLoyal.playerNameBackup2" />. <cite class="AltScen"><MadCap:variable name="TouchdownLoyal.playerNameBackup1Last" /> </cite><b class="Synonym"><cite class="AltScen">has no <MadCap:variable name="TouchdownLoyal.league" /> career experience</cite></b><cite class="AltScen"> under his belt.</cite></p>
+        <div MadCap:conditions="General.InternalNote">
+            <h2>
+                <MadCap:toggler targets="Alternate Scenarios">Alternate Scenarios</MadCap:toggler>
+            </h2>
+            <div MadCap:targetName="Alternate Scenarios">
+                <h3>
+                    <MadCap:toggler targets="Home player backup">Home player backup</MadCap:toggler>
+                </h3>
+                <table MadCap:targetName="Home player backup">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>Player has <MadCap:variable name="TouchdownLoyal.league" /> experience</td>
+                            <td>During his <MadCap:variable name="TouchdownLoyal.league" /> career, <MadCap:variable name="TouchdownLoyal.playerNameBackup1Last" /> has completed <MadCap:variable name="TouchdownLoyal.statTwo" /> of<MadCap:variable name="TouchdownLoyal.statTwo" /> passes for<MadCap:variable name="TouchdownLoyal.statThree" /> yards and <MadCap:variable name="TouchdownLoyal.statTwo" /> touchdowns</td>
+                        </tr>
+                        <tr>
+                            <td>Player doesn't have any <MadCap:variable name="TouchdownLoyal.league" /> experience</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerNameBackup1Last" /> has yet to make an on-field appearance in the <MadCap:variable name="TouchdownLoyal.league" />.</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3>
+                    <MadCap:toggler targets="Away player backup">Away player backup</MadCap:toggler>
+                </h3>
+                <table style="width: 100%;" MadCap:targetName="Away player backup">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>Player has <MadCap:variable name="TouchdownLoyal.league" /> experience</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerNameBackup2Last" /> has passed the football for <MadCap:variable name="TouchdownLoyal.statThree" /> yards with <MadCap:variable name="TouchdownLoyal.statTwo" /> touchdowns and <MadCap:variable name="TouchdownLoyal.statTwo" /> interceptions.</td>
+                        </tr>
+                        <tr>
+                            <td>Player doesn't have any <MadCap:variable name="TouchdownLoyal.league" /> experience</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerNameBackup1Last" /><b class="Synonym"> has no <MadCap:variable name="TouchdownLoyal.league" /> career experience</b> under his belt.
+                    </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

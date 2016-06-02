@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="60" MadCap:lastWidth="1231">
+    <head>
+    </head>
+    <body>
+        <p><MadCap:variable name="TouchdownLoyal.playerPositionQB" MadCap:conditions="General.Quarterback" /><MadCap:variable name="TouchdownLoyal.playerPositionWR" MadCap:conditions="General.WideReceiver" /><MadCap:variable name="TouchdownLoyal.playerPositionTE" MadCap:conditions="General.TightEnd" /><MadCap:variable name="TouchdownLoyal.playerPositionRB" MadCap:conditions="General.RunningBack" /><MadCap:variable name="TouchdownLoyal.playerPositionDB" MadCap:conditions="General.DefensiveBack" />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="954" MadCap:lastWidth="936">
+    <head>
+    </head>
+    <body>
+        <p><MadCap:variable name="TouchdownLoyal.playerName1Last" /> has had an <cite class="SynAltScen">electric</cite> <MadCap:variable name="TouchdownLoyal.seasonYear" /> season. With a <MadCap:variable name="TouchdownLoyal.statDecimal" /> passer rating overall, <MadCap:variable name="TouchdownLoyal.playerName1Last" /> has completed <MadCap:variable name="TouchdownLoyal.statThree" /> of <MadCap:variable name="TouchdownLoyal.statThree" /> pass attempts for <MadCap:variable name="TouchdownLoyal.statFour" /> yards.  He is <cite class="SynAltScen">averaging</cite> <MadCap:variable name="TouchdownLoyal.statDecimal" />yards per pass attempt and has connected for <MadCap:variable name="TouchdownLoyal.statTwo" /> touchdowns. With a <cite class="AltScen">higher</cite> passer rating than <MadCap:variable name="TouchdownLoyal.playerName2Last" />, <MadCap:variable name="TouchdownLoyal.playerName1Last" /> has thrown <MadCap:variable name="TouchdownLoyal.statTwo" /> interceptions. <cite class="AltScen">The <MadCap:variable name="TouchdownLoyal.teamNameHomeNN"></MadCap:variable> <MadCap:variable name="TouchdownLoyal.playerPositionQB"></MadCap:variable> has taken a beating on the field—sacked <MadCap:variable name="TouchdownLoyal.statTwo"></MadCap:variable>times for <MadCap:variable name="TouchdownLoyal.statThree"></MadCap:variable> yards</cite>.</p>
+        <div MadCap:conditions="General.InternalNote">
+            <h2>
+                <MadCap:toggler targets="alternate scenarios">Alternate Scenarios</MadCap:toggler>
+            </h2>
+            <div MadCap:targetName="alternate scenarios">
+                <h3>
+                    <MadCap:toggler targets="QB Season Passer Rating">QB&#160;Season Passer Rating</MadCap:toggler>
+                </h3>
+                <table style="width: 100%;" MadCap:targetName="QB Season Passer Rating">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>Top 25%</td>
+                            <td>Stellar; outstanding; stunning; phenomenal; astounding; exceptional; magnificent; spectacular; exciting; electric; </td>
+                        </tr>
+                        <tr>
+                            <td>Middle 50%</td>
+                            <td>Good; ok; fine; moderate; run of the mill; average; ordinary; garden-variety; so-so; modest</td>
+                        </tr>
+                        <tr>
+                            <td>Bottom 25%</td>
+                            <td>Poor; below average; mediocre; inferior; subpar; </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3>
+                    <MadCap:toggler targets="Passer Rating Comparison">Passer Rating Comparison</MadCap:toggler>
+                </h3>
+                <table MadCap:targetName="Passer Rating Comparison">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>Home <MadCap:variable name="TouchdownLoyal.playerPositionQB" /> has a higher rating than away <MadCap:variable name="TouchdownLoyal.playerPositionQB" /></td>
+                            <td>higher passer rating than</td>
+                        </tr>
+                        <tr>
+                            <td>Home and away <MadCap:variable name="TouchdownLoyal.playerPositionQB" />s have similar ratings (+/- 10.00)</td>
+                            <td>similar passer rating to</td>
+                        </tr>
+                        <tr>
+                            <td>Home <MadCap:variable name="TouchdownLoyal.playerPositionQB" /> has a lower rating than the away <MadCap:variable name="TouchdownLoyal.playerPositionQB" /></td>
+                            <td>lower passer rating than</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3>
+                    <MadCap:toggler targets="QB Sacks">QB Sacks</MadCap:toggler>
+                </h3>
+                <table MadCap:targetName="QB Sacks">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td><MadCap:variable name="TouchdownLoyal.playerPositionQB" /> has 0 sacks</td>
+                            <td>The <MadCap:variable name="TouchdownLoyal.teamNameHomeNN" /> <MadCap:variable name="TouchdownLoyal.playerPositionQB" /> yet to be taken down—the quarterback has zero sacks.</td>
+                        </tr>
+                        <tr>
+                            <td><MadCap:variable name="TouchdownLoyal.playerPositionQB" /> is in the top 25% for sacks</td>
+                            <td>The <MadCap:variable name="TouchdownLoyal.teamNameHomeNN" /> <MadCap:variable name="TouchdownLoyal.playerPositionQB" /> has stayed upright—only sacked <MadCap:variable name="TouchdownLoyal.statTwo" />times for <MadCap:variable name="TouchdownLoyal.statThree" /> yards.</td>
+                        </tr>
+                        <tr>
+                            <td><MadCap:variable name="TouchdownLoyal.playerPositionQB" /> is in the middle 50% for sacks</td>
+                            <td>The <MadCap:variable name="TouchdownLoyal.teamNameHomeNN" /> <MadCap:variable name="TouchdownLoyal.playerPositionQB" /> has spent some time in the dirt—sacked <MadCap:variable name="TouchdownLoyal.statTwo" />times for <MadCap:variable name="TouchdownLoyal.statThree" /> yards.</td>
+                        </tr>
+                        <tr>
+                            <td><MadCap:variable name="TouchdownLoyal.playerPositionQB" /> is in the bottom 25% for sacks</td>
+                            <td>The <MadCap:variable name="TouchdownLoyal.teamNameHomeNN" /> <MadCap:variable name="TouchdownLoyal.playerPositionQB" /> has taken a beating on the field—sacked <MadCap:variable name="TouchdownLoyal.statTwo" />times for <MadCap:variable name="TouchdownLoyal.statThree" /> yards.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

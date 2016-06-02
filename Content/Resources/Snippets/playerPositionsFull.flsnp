@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="60" MadCap:lastWidth="1001">
+    <head>
+    </head>
+    <body>
+        <p>
+            <MadCap:conditionalText MadCap:conditions="General.Quarterback">quarterback</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="General.RunningBack">running back</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="General.TightEnd">tight end</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="General.WideReceiver">wide receiver</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="General.DefensiveBack,General.DefensiveBack_B">defensive back</MadCap:conditionalText>
+        </p>
+    </body>
+</html>

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="873" MadCap:lastWidth="923">
+    <head>
+    </head>
+    <body>
+        <p>Last <MadCap:variable name="TouchdownLoyal.Day" />, <MadCap:variable name="TouchdownLoyal.playerName1" /> <cite class="AltScen">had a <cite class="SynAltScen">stellar</cite> game against </cite>the <MadCap:variable name="TouchdownLoyal.teamNameHomePrior" />, completing <MadCap:variable name="TouchdownLoyal.statTwo" /> of <MadCap:variable name="TouchdownLoyal.statTwo" /> passes for <MadCap:variable name="TouchdownLoyal.statTwo" /> touchdowns, <b class="Synonym">recording</b> the <MadCap:variable name="TouchdownLoyal.rank" />-best passer rating in the league for week <MadCap:variable name="TouchdownLoyal.statTwo" />. <MadCap:variable name="TouchdownLoyal.playerName2" /> <cite class="AltScen">had an <cite class="SynAltScen">impressive</cite> prior week</cite> <cite class="AltScen">as well</cite> against the <MadCap:variable name="TouchdownLoyal.teamNameAwayPrior" />, completing <MadCap:variable name="TouchdownLoyal.statTwo" /> of <MadCap:variable name="TouchdownLoyal.statTwo" /> passes for <MadCap:variable name="TouchdownLoyal.statThree" /> yards and <MadCap:variable name="TouchdownLoyal.statTwo" /> touchdowns, giving him a <MadCap:variable name="TouchdownLoyal.statDecimal" /> passer rating. <MadCap:variable name="TouchdownLoyal.playerName1Last" /> <cite class="AltScen">had a perfect game without throwing any interceptions</cite>, and <cite class="AltScen">he was sacked twice</cite>. Meanwhile, <MadCap:variable name="TouchdownLoyal.playerName2Last" /> <cite class="AltScen">threw the ball to the defense twice</cite>, and <cite class="AltScen">he was not sacked at all</cite>.</p>
+        <div MadCap:conditions="General.InternalNote">
+            <h2>
+                <MadCap:toggler targets="alternate scenarios">Alternate Scenarios</MadCap:toggler>
+            </h2>
+            <div MadCap:targetName="alternate scenarios">
+                <h3>
+                    <MadCap:toggler targets="Home and Away Player Last Name">Home and Away Player Last Name</MadCap:toggler>
+                </h3>
+                <table style="width: 100%;" MadCap:targetName="Home and Away Player Last Name">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>Player’s passer rating for week was in the top 25% of the league</td>
+                            <td>Stellar; outstanding; stunning; phenomenal; astounding; exceptional; magnificent; spectacular; exciting; electric;</td>
+                        </tr>
+                        <tr>
+                            <td>Player’s passer rating for week was in the middle 50% of the league</td>
+                            <td>Good; ok; fine; moderate; run of the mill; average; ordinary; garden-variety; so-so; modest</td>
+                        </tr>
+                        <tr>
+                            <td>Player’s passer rating for week was in the bottom 25% of the league</td>
+                            <td>Poor; below average; mediocre; inferior; subpar; </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3>Comparing players' prior weeks</h3>
+                <table style="width: 100%;">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>Players were both in the top 25%&#160;of the league for passer rating</td>
+                            <td>as well</td>
+                        </tr>
+                        <tr>
+                            <td>Players were both in the middle 50% of the league for passer rating</td>
+                            <td>as well</td>
+                        </tr>
+                        <tr>
+                            <td>Players were both in the bottom 25%&#160;of the league for passer rating</td>
+                            <td>as well</td>
+                        </tr>
+                        <tr>
+                            <td>Players were not in the same tier for passer rating</td>
+                            <td>&lt;do not generate&gt;</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3>
+                    <MadCap:toggler targets="Describing Player's Prior GAme">Describing <MadCap:snippetText src="../playerPositions.flsnp" />'s Prior Game </MadCap:toggler>
+                </h3>
+                <table style="width: 100%;" MadCap:targetName="Describing Player's Prior GAme">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>
+                                <MadCap:snippetText src="../playerPositions.flsnp" /> did not throw any interceptions</td>
+                            <td>had a perfect game without throwing any interceptions</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <MadCap:snippetText src="../playerPositions.flsnp" /> threw at least one interception</td>
+                            <td>threw the ball to the defense [##] times.</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3>
+                    <MadCap:toggler targets="Prior Game Sacks">
+                        <MadCap:snippetText src="../playerPositions.flsnp" />'s Prior Game Sacks</MadCap:toggler>
+                </h3>
+                <table style="width: 100%;" MadCap:targetName="Prior Game Sacks">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>
+                                <p>
+                                    <MadCap:snippetText src="../playerPositions.flsnp" /> never got sacked</p>
+                            </td>
+                            <td>he was not sacked at all</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <MadCap:snippetText src="../playerPositions.flsnp" /> got sacked at least once</td>
+                            <td>he was sacked [##] times.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

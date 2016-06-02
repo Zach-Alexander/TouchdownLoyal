@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Player Comparisons">
+    <TocEntry
+      Title="09_Quarterback"
+      Link="/Content/Player Comparisons/09_Quarterback.htm"
+      conditions="General.Quarterback" />
+    <TocEntry
+      Title="10_WideReceiver"
+      Link="/Content/Player Comparisons/10_WideReceiver.htm" />
+    <TocEntry
+      Title="11_TightEnd"
+      Link="/Content/Player Comparisons/11_TightEnd.htm" />
+    <TocEntry
+      Title="12_RunningBack"
+      Link="/Content/Player Comparisons/12_RunningBack.htm" />
+    <TocEntry
+      Title="13_DefensiveBacks"
+      Link="/Content/Player Comparisons/13_DefensiveBacks.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="New Book 2">
+    <TocEntry
+      Title="New entry 3" />
+    <TocEntry
+      Title="New entry 4" />
+  </TocEntry>
+</CatapultToc>

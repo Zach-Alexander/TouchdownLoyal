@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastBlockDepth="10" MadCap:lastHeight="861" MadCap:lastWidth="1127" MadCap:conditions="General.Quarterback,General.RunningBack,General.TightEnd,General.WideReceiver" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p MadCap:conditions="General.NotesToWriter">*This paragraph can be used for QBs, RBs, TEs or WRs</p>
+        <p>In <MadCap:variable name="TouchdownLoyal.seasonYear" />, the <MadCap:variable name="TouchdownLoyal.teamNameHome" />’ top <MadCap:snippetText src="../playerPositionsFull.flsnp" />s have been <MadCap:variable name="TouchdownLoyal.playerName1" /> and <MadCap:variable name="TouchdownLoyal.playerNameBackup1" />. <cite class="AltScen"><MadCap:variable name="TouchdownLoyal.playerName1Last" /> is the leading <MadCap:variable name="TouchdownLoyal.teamNameHomeNN" /> <MadCap:snippetText src="../playerPositionsFull.flsnp" />s in terms of overall <MadCap:snippetText src="../FeaturedStat2.flsnp" />.</cite> <b class="Synonym">So far this season</b>, <MadCap:variable name="TouchdownLoyal.playerName1Last" /> has <b class="Synonym" MadCap:conditions="General.Quarterback">thrown</b><MadCap:conditionalText MadCap:conditions="General.TightEnd,General.WideReceiver"><b class="Synonym">caught</b></MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack"><b class="Synonym">been handed</b></MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.DefensiveBack_B,General.DefensiveBack"><b class="Synonym">tackled</b></MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.WideReceiver,General.TightEnd,General.RunningBack,General.Quarterback"> the ball <MadCap:variable name="TouchdownLoyal.statTwo" /> times for <MadCap:variable name="TouchdownLoyal.statTwo" /> yards and <MadCap:variable name="TouchdownLoyal.statTwo" /> touchdowns</MadCap:conditionalText>.<cite class="AltScen"> <MadCap:variable name="TouchdownLoyal.playerName1Last" />’s touchdowns among <MadCap:snippetText src="../playerPositionsFull.flsnp" />s are just average for the <MadCap:variable name="TouchdownLoyal.league" /> this season.</cite> <MadCap:variable name="TouchdownLoyal.playerNameBackup1" /> has supported <MadCap:variable name="TouchdownLoyal.playerName1Last" />, <b class="Synonym" MadCap:conditions="General.Quarterback">recording a</b><MadCap:conditionalText MadCap:conditions="General.TightEnd,General.WideReceiver,General.RunningBack"><b class="Synonym">recording</b></MadCap:conditionalText> <MadCap:variable name="TouchdownLoyal.statTwo" /> <MadCap:snippetText src="../FeaturedStat1.flsnp" /> for <MadCap:variable name="TouchdownLoyal.statTwo" /> yards and <MadCap:variable name="TouchdownLoyal.statTwo" /> touchdowns. <MadCap:variable name="TouchdownLoyal.playerName1Last" /> and <MadCap:variable name="TouchdownLoyal.playerNameBackup1Last" /> rank <MadCap:variable name="TouchdownLoyal.rank" /> and <MadCap:variable name="TouchdownLoyal.rank" /> respectively for <MadCap:snippetText src="../FeaturedStat2.flsnp" /> gained in <MadCap:variable name="TouchdownLoyal.seasonYear" />.</p>
+        <div MadCap:conditions="General.InternalNote">
+            <h2>
+                <MadCap:toggler targets="Alternate Scenarios HomeTEs">Alternate Scenarios</MadCap:toggler>
+            </h2>
+            <div MadCap:targetName="Alternate Scenarios HomeTEs">
+                <h3>
+                    <MadCap:toggler targets="Leading player">Leading player</MadCap:toggler>
+                </h3>
+                <table style="width: 100%;" MadCap:targetName="Leading player">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>One player has the most receiving yards</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerName1Last" /> is the leading <MadCap:variable name="TouchdownLoyal.teamNameHomeNN" /> <MadCap:snippetText src="../playerPositions.flsnp" /> in terms of overall receiving yards.</td>
+                        </tr>
+                        <tr>
+                            <td>Two or more players have the most receiving yards</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerName1Last" /> and <MadCap:variable name="TouchdownLoyal.playerNameBackup1Last" /> are both leading <MadCap:variable name="TouchdownLoyal.teamNameHomeNN" /> <MadCap:snippetText src="../playerPositions.flsnp" />s in terms of overall receiving yards.</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3>
+                    <MadCap:toggler targets="Alternate Scenarios HomeTEs">
+                        <MadCap:toggler targets="Players touchdown rank">Players'  touchdown rank</MadCap:toggler>
+                    </MadCap:toggler>
+                </h3>
+                <table style="width: 100%;" MadCap:targetName="Players touchdown rank">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>Player is in the top 25% of <MadCap:snippetText src="../playerPositions.flsnp" /> for TDs scored</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerName1Last" />'s touchdowns among <MadCap:snippetText src="../playerPositions.flsnp" />s outnumber most of the <MadCap:variable name="TouchdownLoyal.league" /> this season.</td>
+                        </tr>
+                        <tr>
+                            <td>Player is in the middle 50% of <MadCap:snippetText src="../playerPositions.flsnp" /> for TDs scored</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerName1Last" />'s touchdowns among <MadCap:snippetText src="../playerPositions.flsnp" />s are just average for the <MadCap:variable name="TouchdownLoyal.league" /> this season.</td>
+                        </tr>
+                        <tr>
+                            <td>Player is in the bottom 25%&#160;of <MadCap:snippetText src="../playerPositions.flsnp" /> for TDs scored</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerName1Last" />'s touchdowns among <MadCap:snippetText src="../playerPositions.flsnp" />s lag behind most of the <MadCap:variable name="TouchdownLoyal.league" /> this season.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

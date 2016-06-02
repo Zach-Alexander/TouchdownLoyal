@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment=""
+    Name="InternalNote"
+    BackgroundColor="#90ee90"
+    OriginalName="InternalNote" />
+  <ConditionTag
+    Comment=""
+    Name="Quarterback"
+    BackgroundColor="Red"
+    OriginalName="Quarterback" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="TightEnd"
+    Comment=""
+    OriginalName="TightEnd" />
+  <ConditionTag
+    BackgroundColor="#ffff00"
+    Name="RunningBack"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#f8c76b"
+    Name="DefensiveBack"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#da70d6"
+    Name="WideReceiver"
+    Comment=""
+    OriginalName="WideReceiver" />
+  <ConditionTag
+    BackgroundColor="#fe7703"
+    Name="DefensiveBack_B"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00ffff"
+    Name="NotesToWriter"
+    Comment="" />
+</CatapultConditionTagSet>

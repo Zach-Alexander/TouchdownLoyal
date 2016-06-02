@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="1550" MadCap:lastWidth="923">
+    <head>
+    </head>
+    <body>
+        <p><cite class="AltScen">Both  <MadCap:snippetText src="../playerPositionsFull.flsnp" />s have been performing at the top of their game this season</cite>. <cite class="AltScen"><MadCap:variable name="TouchdownLoyal.playerName1Last" /> and <MadCap:variable name="TouchdownLoyal.playerName2Last" /> have been </cite><cite MadCap:conditions="General.Quarterback" class="AltScen">showing off their arms and bombing passes down the field</cite><MadCap:conditionalText MadCap:conditions="General.WideReceiver,General.TightEnd">jumping in the air and catching passes</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack">grabbing the hand off and sprinting trough the defense</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.DefensiveBack_B,General.DefensiveBack">stopping the ball from getting to the end zone</MadCap:conditionalText><cite class="AltScen"> all season long</cite>—<MadCap:variable name="TouchdownLoyal.playerName1Last" /> has <MadCap:conditionalText MadCap:conditions="General.Quarterback">out thrown</MadCap:conditionalText> <MadCap:variable name="TouchdownLoyal.playerName2Last" /> <MadCap:conditionalText MadCap:conditions="General.Quarterback">in terms of overall yardage</MadCap:conditionalText> by <MadCap:variable name="TouchdownLoyal.statTwo" /> yards. <cite class="AltScen"><MadCap:variable name="TouchdownLoyal.playerName2Last" /> has beat <MadCap:variable name="TouchdownLoyal.playerName1Last" /> in terms of </cite><cite MadCap:conditions="General.Quarterback" class="AltScen">interceptions thrown</cite><cite class="AltScen">. <MadCap:variable name="TouchdownLoyal.playerName1Last" /> threw <MadCap:variable name="TouchdownLoyal.statTwo" /> more </cite><cite MadCap:conditions="General.Quarterback" class="AltScen">interceptions</cite><cite class="AltScen"> than <MadCap:variable name="TouchdownLoyal.playerName2Last" /></cite>. <cite class="AltScen">In addition, <MadCap:variable name="TouchdownLoyal.playerName2Last" /> has </cite><cite MadCap:conditions="General.Quarterback" class="AltScen">connected for</cite><cite class="AltScen"> <MadCap:variable name="TouchdownLoyal.statTwo" /> more </cite><cite MadCap:conditions="General.Quarterback" class="AltScen">touchdowns</cite><cite class="AltScen"> than <MadCap:variable name="TouchdownLoyal.playerName1Last" /> so far in <MadCap:variable name="TouchdownLoyal.seasonYear" /></cite>.</p>
+        <div MadCap:conditions="General.InternalNote">
+            <h2>
+                <MadCap:toggler targets="Alternate Scenarios">Alternate Scenarios</MadCap:toggler>
+            </h2>
+            <div MadCap:targetName="Alternate Scenarios">
+                <h3>
+                    <MadCap:toggler targets="Ranking player season so far">Ranking  <MadCap:snippetText src="../playerPositions.flsnp" /> Season so Far</MadCap:toggler>
+                </h3>
+                <table MadCap:targetName="Ranking player season so far">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>Both <MadCap:snippetText src="../playerPositions.flsnp" />s are in the top 25% of the league when measured by <MadCap:snippetText src="../FeaturedStat1.flsnp" /></td>
+                            <td>Both <MadCap:snippetText src="../playerPositions.flsnp" />s have been performing at the top of their game <b class="Synonym">this season</b></td>
+                        </tr>
+                        <tr>
+                            <td>One <MadCap:snippetText src="../playerPositions.flsnp" /> is in the top 25%&#160;of the league when measured by <MadCap:snippetText src="../FeaturedStat1.flsnp" />, but the other is not</td>
+                            <td rowspan="2"><MadCap:variable name="TouchdownLoyal.playerName1Last" /> has been out-performing <MadCap:variable name="TouchdownLoyal.playerName2Last" /> <b class="Synonym">this season</b></td>
+                        </tr>
+                        <tr>
+                            <td>One <MadCap:snippetText src="../playerPositions.flsnp" /> is in the middle 50% when measured by <MadCap:snippetText src="../FeaturedStat1.flsnp" />, but the other is in the bottom 25%</td>
+                        </tr>
+                        <tr>
+                            <td>Both <MadCap:snippetText src="../playerPositions.flsnp" /> are in the middle 50% when measured by <MadCap:snippetText src="../FeaturedStat1.flsnp" /></td>
+                            <td>Both <MadCap:snippetText src="../playerPositions.flsnp" />s have been <MadCap:conditionalText MadCap:conditions="General.DefensiveBack,General.DefensiveBack_B">stopping the ball from</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.Quarterback,General.RunningBack,General.TightEnd,General.WideReceiver">moving the ball down the field</MadCap:conditionalText> <b class="Synonym">this season</b></td>
+                        </tr>
+                        <tr>
+                            <td>Both <MadCap:snippetText src="../playerPositions.flsnp" /> are in the bottom 25% of the league when measure by <MadCap:snippetText src="../FeaturedStat1.flsnp" /></td>
+                            <td>Both <MadCap:snippetText src="../playerPositions.flsnp" />s have been struggling <b class="Synonym">this season</b></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3>
+                    <MadCap:toggler targets="FeaturedStat2">FeaturedStat2</MadCap:toggler>
+                </h3>
+                <table MadCap:targetName="FeaturedStat2">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>Both <MadCap:snippetText src="../playerPositions.flsnp" />s are in the top 25% of the league when measured by <MadCap:snippetText src="../FeaturedStat2.flsnp" /></td>
+                            <td><cite class="AltScen"><MadCap:variable name="TouchdownLoyal.playerName1Last" /> and <MadCap:variable name="TouchdownLoyal.playerName2Last" /> have been </cite><cite MadCap:conditions="General.Quarterback" class="AltScen">showing off their arms and bombing passes down the field</cite>
+                                <MadCap:conditionalText MadCap:conditions="General.WideReceiver,General.TightEnd">jumping in the air and catching passes</MadCap:conditionalText>
+                                <MadCap:conditionalText MadCap:conditions="General.RunningBack">grabbing the hand off and sprinting trough the defense</MadCap:conditionalText>
+                                <MadCap:conditionalText MadCap:conditions="General.DefensiveBack_B,General.DefensiveBack">stopping the ball from getting to the end zone</MadCap:conditionalText><cite class="AltScen"> all season long</cite>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>One <MadCap:snippetText src="../playerPositions.flsnp" /> is in the top 25%&#160;of the league when measured by <MadCap:snippetText src="../FeaturedStat2.flsnp" />, but the other is not</td>
+                            <td rowspan="2"><MadCap:variable name="TouchdownLoyal.playerName1Last" /> <MadCap:conditionalText MadCap:conditions="General.Quarterback,General.RunningBack,General.TightEnd,General.WideReceiver">has been</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="General.Quarterback">throwing yards over</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.TightEnd,General.WideReceiver">catching yards over</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack">trampling</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.DefensiveBack,General.DefensiveBack_B">seems to be tougher to get by than</MadCap:conditionalText> <MadCap:variable name="TouchdownLoyal.playerName2Last" /> <MadCap:conditionalText MadCap:conditions="General.RunningBack">in terms of yardage </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.DefensiveBack,General.DefensiveBack_B">measured by tackles </MadCap:conditionalText><b class="Synonym">this season</b>.</td>
+                        </tr>
+                        <tr>
+                            <td>One <MadCap:snippetText src="../playerPositions.flsnp" /> is in the middle 50% when measured by <MadCap:snippetText src="../FeaturedStat2.flsnp" />, but the other is in the bottom 25%</td>
+                        </tr>
+                        <tr>
+                            <td>Both <MadCap:snippetText src="../playerPositions.flsnp" /> are in the middle 50% when measured by <MadCap:snippetText src="../FeaturedStat2.flsnp" /></td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerName1Last" /> and <MadCap:variable name="TouchdownLoyal.playerName2Last" /> <b class="Synonym">haven't had standout seasons </b>in terms of <MadCap:conditionalText MadCap:conditions="General.Quarterback">passing</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.TightEnd,General.WideReceiver">receiving</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack">rushing</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.DefensiveBack">tackles</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.Quarterback,General.RunningBack,General.TightEnd,General.WideReceiver"> yards</MadCap:conditionalText></td>
+                        </tr>
+                        <tr>
+                            <td>Both <MadCap:snippetText src="../playerPositions.flsnp" /> are in the bottom 25% of the league when measure by <MadCap:snippetText src="../FeaturedStat2.flsnp" /></td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerName1Last" /> and <MadCap:variable name="TouchdownLoyal.playerName2Last" /> haven't been able to <MadCap:conditionalText MadCap:conditions="General.Quarterback">get the ball down the field</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.TightEnd,General.WideReceiver">get their hands on the football</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack">find a hole in the defense</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.DefensiveBack">put up a defensive wall</MadCap:conditionalText></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3>
+                    <MadCap:toggler targets="FeaturedStat3">FeaturedStat3</MadCap:toggler>
+                </h3>
+                <table style="width: 100%;" MadCap:targetName="FeaturedStat3">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>One <MadCap:snippetText src="../playerPositions.flsnp" /> has more <MadCap:snippetText src="../FeaturedStat3.flsnp" /> than the other this season</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerName1Last" /> has beat <MadCap:variable name="TouchdownLoyal.playerName2Last" /> in terms of <MadCap:snippetText src="../FeaturedStat3.flsnp" />. <MadCap:variable name="TouchdownLoyal.playerName2Last" /> <MadCap:conditionalText MadCap:conditions="General.Quarterback">threw</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.TightEnd,General.RunningBack,General.WideReceiver">dropped</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.DefensiveBack,General.DefensiveBack_B">recorded</MadCap:conditionalText></td>
+                        </tr>
+                        <tr>
+                            <td>Both players have the same number of <MadCap:snippetText src="../FeaturedStat3.flsnp" /> this season</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerName1Last" /> and <MadCap:variable name="TouchdownLoyal.playerName2Last" /> have both <MadCap:conditionalText MadCap:conditions="General.Quarterback">thrown</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.TightEnd,General.RunningBack,General.WideReceiver">dropped</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.DefensiveBack,General.DefensiveBack_B">recorded</MadCap:conditionalText> <MadCap:variable name="TouchdownLoyal.statTwo" /> <MadCap:snippetText src="../FeaturedStat3.flsnp" /></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3>
+                    <MadCap:toggler targets="FeaturedStat4">FeaturedStat4</MadCap:toggler>
+                </h3>
+                <table style="width: 100%;" MadCap:targetName="FeaturedStat4">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>One <MadCap:snippetText src="../playerPositions.flsnp" /> has more <MadCap:snippetText src="../FeaturedStat4.flsnp" /> than the other this season</td>
+                            <td><b class="Synonym">In addition</b> <MadCap:variable name="TouchdownLoyal.playerName1Last" /> has <MadCap:conditionalText MadCap:conditions="General.Quarterback">connected for</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.TightEnd,General.WideReceiver,General.DefensiveBack">caught</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack">ran for</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.DefensiveBack_B">wrestled</MadCap:conditionalText> <MadCap:variable name="TouchdownLoyal.statTwo" /> more touchdowns than <MadCap:variable name="TouchdownLoyal.playerName2Last" /> so far <MadCap:variable name="TouchdownLoyal.seasonYear" /> season</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>Both <MadCap:snippetText src="../playerPositions.flsnp" />s have the same number of <MadCap:snippetText src="../FeaturedStat4.flsnp" /> this season</p>
+                            </td>
+                            <td>When measured by number of <MadCap:snippetText src="../FeaturedStat4.flsnp" /> this season <MadCap:variable name="TouchdownLoyal.playerName1Last" /> and <MadCap:variable name="TouchdownLoyal.playerName2Last" /> are <b class="Synonym">tied</b> at <MadCap:variable name="TouchdownLoyal.statTwo" /></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

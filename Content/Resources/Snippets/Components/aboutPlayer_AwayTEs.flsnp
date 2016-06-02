@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:lastBlockDepth="7" MadCap:lastHeight="494" MadCap:lastWidth="1166" MadCap:conditions="General.Quarterback,General.TightEnd,General.WideReceiver,General.RunningBack" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p MadCap:conditions="General.NotesToWriter" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">*This paragraph can be used for QBs, RBs, TEs or WRs</p>
+        <p>The <MadCap:variable name="TouchdownLoyal.teamNameAwayNN" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> have <b class="Synonym">depended</b> on <MadCap:variable name="TouchdownLoyal.playerName2" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> and <MadCap:variable name="TouchdownLoyal.playerNameBackup2" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> to lead their <MadCap:snippetText src="../playerPositionsFull.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> <b class="Synonym">roster</b> <b class="Synonym">this season</b>. <cite class="AltScen"><MadCap:variable name="TouchdownLoyal.playerName2Last" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> has had a star season.</cite> He ranks <MadCap:variable name="TouchdownLoyal.rank" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> in the <MadCap:variable name="TouchdownLoyal.league" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />, in terms of <MadCap:snippetText src="../FeaturedStat2.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> gained with <MadCap:variable name="TouchdownLoyal.statThree" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />. He’s <MadCap:conditionalText MadCap:conditions="General.Quarterback" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">thrown</MadCap:conditionalText><b class="Synonym" MadCap:conditions="General.TightEnd,General.WideReceiver" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">caught</b><MadCap:conditionalText MadCap:conditions="General.RunningBack" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">rushed</MadCap:conditionalText> the ball <MadCap:variable name="TouchdownLoyal.statTwo" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> times and <b class="Synonym">gained</b> <MadCap:variable name="TouchdownLoyal.statTwo" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> touchdowns for the <MadCap:variable name="TouchdownLoyal.teamNameAwayNN" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />.  To add to <MadCap:variable name="TouchdownLoyal.playerName2Last" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />’s stats, <MadCap:variable name="TouchdownLoyal.playerNameBackup2Last" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> <MadCap:conditionalText MadCap:conditions="General.Quarterback">completed</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.TightEnd,General.WideReceiver" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">caught</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">rushing for</MadCap:conditionalText> a total of <MadCap:variable name="TouchdownLoyal.statTwo" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> <MadCap:snippetText src="../FeaturedStat5.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> for <MadCap:variable name="TouchdownLoyal.statTwo" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> yards and <MadCap:variable name="TouchdownLoyal.statTwo" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /> touchdown.</p>
+        <div MadCap:conditions="General.InternalNote">
+            <h2>
+                <MadCap:toggler targets="alternateScenarios_AwayTEs">Alternate Scenarios</MadCap:toggler>
+            </h2>
+            <div MadCap:targetName="alternateScenarios_AwayTEs">
+                <h3>
+                    <MadCap:toggler targets="alternateScenarios_AwayTEs">Describing player season</MadCap:toggler>
+                </h3>
+                <table style="width: 100%;" MadCap:targetName="playerSeason">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>Player is in the top 25% for TDs among <MadCap:snippetText src="../playerPositions.flsnp" />s</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerName2Last" /> has had a star season</td>
+                        </tr>
+                        <tr>
+                            <td>Player is in the middle 50% for TDs among <MadCap:snippetText src="../playerPositions.flsnp" />s</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerName2Last" /> has had an average season</td>
+                        </tr>
+                        <tr>
+                            <td>Player is in the bottom 25% for TDs among <MadCap:snippetText src="../playerPositions.flsnp" />s</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerName2Last" /> has had a mediocre season</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

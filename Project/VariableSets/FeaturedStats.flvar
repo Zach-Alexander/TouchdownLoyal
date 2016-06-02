@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="FeaturedStat1QB"
+    EvaluatedDefinition="passer rating">passer rating</Variable>
+  <Variable
+    Comment=""
+    Name="FeaturedStat1RB"
+    EvaluatedDefinition="rushing yards">rushing yards</Variable>
+  <Variable
+    Name="FeaturedStat1TE"
+    Comment=""
+    EvaluatedDefinition="targets">targets</Variable>
+  <Variable
+    Name="FeaturedStat1WR"
+    Comment=""
+    EvaluatedDefinition="targets">targets</Variable>
+  <Variable
+    Name="FeaturedStat1DB"
+    Comment=""
+    EvaluatedDefinition="tackles">tackles</Variable>
+  <Variable
+    Name="FeaturedStat2TE"
+    Comment=""
+    EvaluatedDefinition="receiving yards">receiving yards</Variable>
+  <Variable
+    Name="FeaturedStat2WR"
+    Comment=""
+    EvaluatedDefinition="receiving yards">receiving yards</Variable>
+  <Variable
+    Name="FeaturedStat2DB"
+    Comment=""
+    EvaluatedDefinition="tackles">tackles</Variable>
+  <Variable
+    Comment=""
+    Name="FeaturedStat2RB"
+    EvaluatedDefinition="rushing yards">rushing yards</Variable>
+  <Variable
+    Comment=""
+    Name="FeaturedStat2QB"
+    EvaluatedDefinition="passing yards">passing yards</Variable>
+  <Variable
+    Name="FeaturedStat3TE"
+    Comment=""
+    EvaluatedDefinition="fumbles">fumbles</Variable>
+  <Variable
+    Name="FeaturedStat3WR"
+    Comment=""
+    EvaluatedDefinition="fumbles">fumbles</Variable>
+  <Variable
+    Name="FeaturedStat3DB"
+    Comment=""
+    EvaluatedDefinition="penalties">penalties</Variable>
+  <Variable
+    Comment=""
+    Name="FeaturedStat3RB"
+    EvaluatedDefinition="fumbles">fumbles</Variable>
+  <Variable
+    Comment=""
+    Name="FeaturedStat3QB"
+    EvaluatedDefinition="interceptions">interceptions</Variable>
+  <Variable
+    Name="FeaturedStat4TE"
+    Comment=""
+    EvaluatedDefinition="touchdowns">touchdowns</Variable>
+  <Variable
+    Name="FeaturedStat4WR"
+    Comment=""
+    EvaluatedDefinition="touchdowns">touchdowns</Variable>
+  <Variable
+    Name="FeaturedStat4DB_A"
+    Comment=""
+    EvaluatedDefinition="interceptions">interceptions</Variable>
+  <Variable
+    Comment=""
+    Name="FeaturedStat4RB"
+    EvaluatedDefinition="touchdowns">touchdowns</Variable>
+  <Variable
+    Comment=""
+    Name="FeaturedStat4QB"
+    EvaluatedDefinition="touchdowns">touchdowns</Variable>
+  <Variable
+    Name="FeaturedStat5TE"
+    Comment=""
+    EvaluatedDefinition="receptions">receptions</Variable>
+  <Variable
+    Name="FeaturedStat5WR"
+    Comment=""
+    EvaluatedDefinition="receptions">receptions</Variable>
+  <Variable
+    Name="FeaturedStat5DB_A"
+    Comment=""
+    EvaluatedDefinition="interceptions">interceptions</Variable>
+  <Variable
+    Comment=""
+    Name="FeaturedStat5RB"
+    EvaluatedDefinition="rushing attempts">rushing attempts</Variable>
+  <Variable
+    Comment=""
+    Name="FeaturedStat5QB"
+    EvaluatedDefinition="passes">passes</Variable>
+  <Variable
+    Name="FeaturedStat6TE"
+    Comment=""
+    EvaluatedDefinition="yards per reception">yards per reception</Variable>
+  <Variable
+    Name="FeaturedStat6WR"
+    Comment=""
+    EvaluatedDefinition="yards per reception">yards per reception</Variable>
+  <Variable
+    Name="FeaturedStat6DB"
+    Comment=""
+    EvaluatedDefinition="yards allowed per play">yards allowed per play</Variable>
+  <Variable
+    Comment=""
+    Name="FeaturedStat6RB"
+    EvaluatedDefinition="yards per carry">yards per carry</Variable>
+  <Variable
+    Comment=""
+    Name="FeaturedStat6QB"
+    EvaluatedDefinition="yards per throw">yards per throw</Variable>
+  <Variable
+    Name="FeaturedStat4DB_B"
+    Comment=""
+    EvaluatedDefinition="sacks">sacks</Variable>
+  <Variable
+    Name="FeaturedStat5DB_B"
+    Comment=""
+    EvaluatedDefinition="sacks">sacks</Variable>
+</CatapultVariableSet>

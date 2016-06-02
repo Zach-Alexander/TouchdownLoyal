@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="60" MadCap:lastWidth="1001">
+    <head>
+    </head>
+    <body>
+        <p>
+            <MadCap:conditionalText MadCap:conditions="General.Quarterback,General.RunningBack,General.TightEnd,General.WideReceiver">touchdowns</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="General.DefensiveBack">interceptions</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="General.DefensiveBack_B">sacks</MadCap:conditionalText>
+        </p>
+    </body>
+</html>

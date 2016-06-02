@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="SNT Media">SNT Media</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber"
+    EvaluatedDefinition="316-854-3900">316-854-3900</Variable>
+  <Variable
+    Name="StreetAddress"
+    Comment=""
+    Definition="Some text"
+    OriginalName="StreetAddress"
+    EvaluatedDefinition="110 S. Main Street, Ste. 1000">110 S. Main Street, Ste. 1000</Variable>
+  <Variable
+    Name="ProductName"
+    Comment="Use site name as product name"
+    OriginalName="ProductName"
+    EvaluatedDefinition="Touchdown Loyal">Touchdown Loyal</Variable>
+  <Variable
+    Name="Support"
+    Comment=""
+    OriginalName="Fax"
+    EvaluatedDefinition="855-221-1131">855-221-1131</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    Definition="Some text"
+    EvaluatedDefinition="Wichita, KS 67202">Wichita, KS 67202</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2016-02-16T16:28:00.0099499-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+</CatapultVariableSet>

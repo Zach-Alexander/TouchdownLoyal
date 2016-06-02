@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="60" MadCap:lastWidth="1249">
+    <head>
+    </head>
+    <body>
+        <p><MadCap:variable name="FeaturedStats.FeaturedStat2QB" MadCap:conditions="General.Quarterback" /><MadCap:variable name="FeaturedStats.FeaturedStat2WR" MadCap:conditions="General.WideReceiver,General.TightEnd" /><MadCap:variable name="FeaturedStats.FeaturedStat2RB" MadCap:conditions="General.RunningBack" /><MadCap:variable name="FeaturedStats.FeaturedStat2DB" MadCap:conditions="General.DefensiveBack" />
+        </p>
+    </body>
+</html>

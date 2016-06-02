@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="1657" MadCap:lastWidth="1138">
+    <head>
+    </head>
+    <body>
+        <h1>Player Comparison: <MadCap:snippetText src="../playerPositionsFullCaps.flsnp" />s</h1>
+        <p>
+            <MadCap:conditionalText MadCap:conditions="General.Quarterback,General.TightEnd,General.WideReceiver">Keep your eyes in the air</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="General.RunningBack">It's all about the ground game</MadCap:conditionalText>
+            <MadCap:conditionalText MadCap:conditions="General.DefensiveBack">Talk about a solid defensive matchup</MadCap:conditionalText><cite class="AltScen">—On <MadCap:variable name="TouchdownLoyal.Day" />, two </cite><cite MadCap:conditions="General.Quarterback,General.TightEnd,General.WideReceiver" class="AltScen">pass-driven</cite><cite MadCap:conditions="General.RunningBack" class="AltScen">run-driven</cite><cite MadCap:conditions="General.DefensiveBack" class="AltScen">defensive powerhouses</cite><cite MadCap:conditions="General.Quarterback,General.RunningBack,General.TightEnd,General.WideReceiver" class="AltScen"> teams</cite><cite class="AltScen">, the <MadCap:variable name="TouchdownLoyal.teamNameHome" /> and the <MadCap:variable name="TouchdownLoyal.teamNameAway" /> are <b class="Synonym">facing off</b> at <MadCap:variable name="TouchdownLoyal.venueName" /> in <MadCap:variable name="TouchdownLoyal.venueLocation" /></cite> <b class="Synonym">So far this season</b>, <MadCap:snippetText src="../playerPositions.flsnp" /> <MadCap:variable name="TouchdownLoyal.playerName1" /> has <b class="Synonym">led</b> the <MadCap:variable name="TouchdownLoyal.teamNameHomeNN" /> to a <cite class="SynAltScen">flawless</cite> <MadCap:variable name="TouchdownLoyal.teamRecord" /> record. Meanwhile, <MadCap:variable name="TouchdownLoyal.playerName2" /> and the <MadCap:variable name="TouchdownLoyal.teamNameAwayNN" /> have had a <cite class="SynAltScen">mediocre</cite> season, <b class="Synonym">standing</b> at <MadCap:variable name="TouchdownLoyal.teamRecord" />. The <MadCap:variable name="TouchdownLoyal.teamNameAwayNN" />, <cite class="AltScen">who have one of the </cite><cite MadCap:conditions="General.Quarterback" class="AltScen">biggest arms</cite><cite MadCap:conditions="General.RunningBack" class="AltScen">most agile legs</cite><cite MadCap:conditions="General.TightEnd,General.WideReceiver" class="AltScen">stickiest hands</cite><cite MadCap:conditions="General.DefensiveBack" class="AltScen">most punishing defenders</cite><cite class="AltScen"> in the NFL with <MadCap:variable name="TouchdownLoyal.playerName2Last" /></cite>, are <b class="Synonym">ranked</b> <MadCap:variable name="TouchdownLoyal.rank" /> in terms of total <MadCap:snippetText src="../FeaturedStat5.flsnp" /> at  <MadCap:variable name="TouchdownLoyal.statDecimal" /> and have <b class="Synonym">accumulated</b> <MadCap:variable name="TouchdownLoyal.statFour" /> <MadCap:snippetText src="../FeaturedStat2.flsnp" /> overall for the <MadCap:variable name="TouchdownLoyal.seasonYear" /> season. The <MadCap:variable name="TouchdownLoyal.teamNameAwayNN" /> are a <MadCap:annotation MadCap:createDate="2016-05-31T13:39:03.7630994-05:00" MadCap:creator="Zach" MadCap:initials="ZA" MadCap:comment="Use more, equally or less produtive\r\n\r\nFor DB, use stronger equal or weaker" MadCap:editor="Zach" MadCap:editDate="2016-05-31T13:39:14.9738920-05:00"><cite class="AltScen">more </cite> productive </MadCap:annotation><MadCap:conditionalText MadCap:conditions="General.Quarterback">passing</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack">rushing</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.TightEnd,General.WideReceiver">receiving</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.DefensiveBack">defending</MadCap:conditionalText> team than the <MadCap:variable name="TouchdownLoyal.teamNameHomeNN" />—ranked <MadCap:variable name="TouchdownLoyal.rank" /> in total <MadCap:snippetText src="../FeaturedStat6.flsnp" /> at <MadCap:variable name="TouchdownLoyal.statDecimal" />. <b class="Synonym">So far this season</b>, the <MadCap:variable name="TouchdownLoyal.teamNameHomeNN" /> have <b class="Synonym">recorded</b> <MadCap:variable name="TouchdownLoyal.statFour" /> <MadCap:snippetText src="../FeaturedStat2.flsnp" />.</p>
+        <div MadCap:conditions="General.InternalNote">
+            <h2>
+                <MadCap:toggler targets="alternate scenarios">Alternate Scenarios</MadCap:toggler>
+            </h2>
+            <div MadCap:targetName="alternate scenarios">
+                <h3>
+                    <MadCap:toggler targets="Leads">leads</MadCap:toggler>
+                </h3>
+                <table style="width: 100%;" MadCap:targetName="Leads">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>Both teams are in the top 25% for <MadCap:snippetText src="../FeaturedStat2.flsnp" /> per game</td>
+                            <td>
+                                <MadCap:conditionalText MadCap:conditions="General.Quarterback,General.TightEnd,General.WideReceiver">Keep your eyes in the air</MadCap:conditionalText>
+                                <MadCap:conditionalText MadCap:conditions="General.RunningBack">It's all about the ground game</MadCap:conditionalText>
+                                <MadCap:conditionalText MadCap:conditions="General.DefensiveBack">Talk about a solid defensive matchup</MadCap:conditionalText>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>One team is in the top 25% for <MadCap:snippetText src="../FeaturedStat2.flsnp" />, but the other is not</td>
+                            <td>
+                                <MadCap:conditionalText MadCap:conditions="General.Quarterback">It looks like a mixed bag</MadCap:conditionalText>
+                                <MadCap:conditionalText MadCap:conditions="General.WideReceiver,General.TightEnd">It'll be a smorgasbord of plays</MadCap:conditionalText>
+                                <MadCap:conditionalText MadCap:conditions="General.RunningBack">Watch for all sorts of play calls</MadCap:conditionalText>
+                                <MadCap:conditionalText MadCap:conditions="General.DefensiveBack">It'll be interesting to see how these teams match up</MadCap:conditionalText>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Neither team is in the top 25% for <MadCap:snippetText src="../FeaturedStat2.flsnp" /> per game</td>
+                            <td>
+                                <MadCap:conditionalText MadCap:conditions="General.Quarterback,General.WideReceiver,General.TightEnd">Look for the football to stay on the ground</MadCap:conditionalText>
+                                <MadCap:conditionalText MadCap:conditions="General.RunningBack">Both teams will aim for the sky</MadCap:conditionalText>
+                                <MadCap:conditionalText MadCap:conditions="General.DefensiveBack">How high will the score get</MadCap:conditionalText>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3>
+                    <MadCap:toggler targets="yards per game"> <MadCap:snippetText src="../FeaturedStat2.flsnp" /> per game</MadCap:toggler>
+                </h3>
+                <table style="width: 100%;" MadCap:targetName="yards per game">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>Both teams are in the top 25% for <MadCap:snippetText src="../FeaturedStat2.flsnp" /> per game</td>
+                            <td>On <MadCap:variable name="TouchdownLoyal.Day" />, <cite class="AltScen">two </cite><cite MadCap:conditions="General.Quarterback,General.TightEnd,General.WideReceiver" class="AltScen">pass-driven</cite><cite MadCap:conditions="General.RunningBack" class="AltScen">run-driven</cite><cite MadCap:conditions="General.DefensiveBack" class="AltScen">defensive powerhouses</cite><cite MadCap:conditions="General.Quarterback,General.RunningBack,General.TightEnd,General.WideReceiver" class="AltScen"> teams</cite>, the <MadCap:variable name="TouchdownLoyal.teamNameHome" /> and the <MadCap:variable name="TouchdownLoyal.teamNameAway" /> are <b class="Synonym">facing off</b> at <MadCap:variable name="TouchdownLoyal.venueName" /> in <cite class="AltScen"><MadCap:variable name="TouchdownLoyal.venueLocation" /></cite></td>
+                        </tr>
+                        <tr>
+                            <td>One team is in the top 25% for <MadCap:snippetText src="../FeaturedStat2.flsnp" />, but the other is not</td>
+                            <td>On <MadCap:variable name="TouchdownLoyal.Day" />, two strategically different teams, the <MadCap:variable name="TouchdownLoyal.teamNameHome" /> and the <MadCap:variable name="TouchdownLoyal.teamNameAway" /> are <b class="Synonym">facing off</b> at <MadCap:variable name="TouchdownLoyal.venueName" /> in <MadCap:variable name="TouchdownLoyal.venueLocation" /></td>
+                        </tr>
+                        <tr>
+                            <td>Neither team is in the top 25% for <MadCap:snippetText src="../FeaturedStat2.flsnp" /> per game</td>
+                            <td>On <MadCap:variable name="TouchdownLoyal.Day" />, two <MadCap:conditionalText MadCap:conditions="General.Quarterback,General.WideReceiver,General.TightEnd">turf-focused</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack">pass-focused</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.DefensiveBack">defensively weaker</MadCap:conditionalText> teams, the <MadCap:variable name="TouchdownLoyal.teamNameHome" /> and the <MadCap:variable name="TouchdownLoyal.teamNameAway" /> are <b class="Synonym">facing off</b> at <MadCap:variable name="TouchdownLoyal.venueName" /> in </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3>
+                    <MadCap:toggler targets="attempts per season"> <MadCap:snippetText src="../FeaturedStat5.flsnp" /> per season</MadCap:toggler>
+                </h3>
+                <table style="width: 100%;" MadCap:targetName="attempts per season">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>Player is in the top 25% for  <MadCap:snippetText src="../FeaturedStat5.flsnp" /></td>
+                            <td>The <MadCap:variable name="TouchdownLoyal.teamNameAwayNN" />, who have <MadCap:conditionalText MadCap:conditions="General.Quarterback">one of the biggest arms</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.WideReceiver,General.TightEnd,General.RunningBack,General.DefensiveBack">some of the most </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack">agile legs</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.TightEnd,General.WideReceiver">stickiest hands</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.DefensiveBack,General.DefensiveBack_B">most punishing defenders</MadCap:conditionalText> in the NFL&#160;with </td>
+                        </tr>
+                        <tr>
+                            <td>Player is in the middle 50% for <MadCap:snippetText src="../FeaturedStat5.flsnp" /></td>
+                            <td>The <MadCap:variable name="TouchdownLoyal.teamNameAwayNN" />, who have <MadCap:conditionalText MadCap:conditions="General.Quarterback">an </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.Quarterback">average arm</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack">average legs</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.TightEnd,General.WideReceiver">average hands</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.DefensiveBack,General.DefensiveBack_B">garden-variety defenders</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions=""> in the NFL&#160;with</MadCap:conditionalText></td>
+                        </tr>
+                        <tr>
+                            <td>Player is in the bottom 25% for <MadCap:snippetText src="../FeaturedStat5.flsnp" /></td>
+                            <td>The <MadCap:variable name="TouchdownLoyal.teamNameAwayNN" />, who have <MadCap:conditionalText MadCap:conditions="General.Quarterback">one of the weakest arms</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.DefensiveBack,General.DefensiveBack_B,General.RunningBack,General.TightEnd,General.WideReceiver">some of the more </MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.RunningBack">sluggish legs</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.TightEnd,General.WideReceiver">slipperiest hands</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.DefensiveBack,General.DefensiveBack_B">easiest defenders to push over</MadCap:conditionalText> <MadCap:conditionalText MadCap:conditions="">in the NFL&#160;with</MadCap:conditionalText></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

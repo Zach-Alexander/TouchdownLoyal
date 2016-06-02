@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="Day"
+    EvaluatedDefinition="Sunday">Sunday</Variable>
+  <Variable
+    Name="teamNameHome"
+    Comment=""
+    EvaluatedDefinition="Kansas City Chiefs">Kansas City Chiefs</Variable>
+  <Variable
+    Name="teamNameAway"
+    Comment=""
+    EvaluatedDefinition="San Diego Chargers">San Diego Chargers</Variable>
+  <Variable
+    Name="venueName"
+    Comment=""
+    EvaluatedDefinition="Arrowhead Stadium">Arrowhead Stadium</Variable>
+  <Variable
+    Name="venueLocation"
+    Comment=""
+    EvaluatedDefinition="Kansas City, Mo.">Kansas City, Mo.</Variable>
+  <Variable
+    Name="playerPositionQB"
+    Comment=""
+    EvaluatedDefinition="QB">QB</Variable>
+  <Variable
+    Name="playerPositionRB"
+    Comment=""
+    EvaluatedDefinition="RB">RB</Variable>
+  <Variable
+    Name="playerPositionTE"
+    Comment=""
+    EvaluatedDefinition="TE">TE</Variable>
+  <Variable
+    Name="playerPositionDB"
+    Comment=""
+    EvaluatedDefinition="DB">DB</Variable>
+  <Variable
+    Name="playerPositionWR"
+    Comment=""
+    EvaluatedDefinition="WR">WR</Variable>
+  <Variable
+    Name="playerName1"
+    Comment=""
+    EvaluatedDefinition="Dennis Garnnet">Dennis Garnnet</Variable>
+  <Variable
+    Name="teamNameHomeNN"
+    Comment=""
+    EvaluatedDefinition="Chiefs">Chiefs</Variable>
+  <Variable
+    Name="teamNameAwayNN"
+    Comment=""
+    EvaluatedDefinition="Chargers">Chargers</Variable>
+  <Variable
+    Name="teamNameHomeLoc"
+    Comment=""
+    EvaluatedDefinition="Kansas City">Kansas City</Variable>
+  <Variable
+    Name="teamNameAwayLoc"
+    Comment=""
+    EvaluatedDefinition="San Diego">San Diego</Variable>
+  <Variable
+    Name="teamRecord"
+    Comment=""
+    EvaluatedDefinition="##-##">##-##</Variable>
+  <Variable
+    Name="playerName2"
+    Comment=""
+    EvaluatedDefinition="Davis Godfrey">Davis Godfrey</Variable>
+  <Variable
+    Name="playerName1Last"
+    Comment=""
+    EvaluatedDefinition="Garnnet">Garnnet</Variable>
+  <Variable
+    Name="playerName2Last"
+    Comment=""
+    EvaluatedDefinition="Godfrey">Godfrey</Variable>
+  <Variable
+    Name="rank"
+    Comment=""
+    EvaluatedDefinition="##th">##th</Variable>
+  <Variable
+    Name="statDecimal"
+    Comment=""
+    EvaluatedDefinition="##.##">##.##</Variable>
+  <Variable
+    Name="seasonYear"
+    Comment=""
+    EvaluatedDefinition="2015-2016">2015-2016</Variable>
+  <Variable
+    Name="statFour"
+    Comment=""
+    EvaluatedDefinition="####">####</Variable>
+  <Variable
+    Name="teamNameHomePrior"
+    Comment=""
+    EvaluatedDefinition="New England Patriots">New England Patriots</Variable>
+  <Variable
+    Name="statTwo"
+    Comment=""
+    EvaluatedDefinition="##">##</Variable>
+  <Variable
+    Name="teamNameHomePriorLoc"
+    Comment=""
+    EvaluatedDefinition="New England">New England</Variable>
+  <Variable
+    Name="statThree"
+    Comment=""
+    EvaluatedDefinition="###">###</Variable>
+  <Variable
+    Name="coachName"
+    Comment=""
+    EvaluatedDefinition="Coleman Vann">Coleman Vann</Variable>
+  <Variable
+    Name="playerNameBackup1"
+    Comment=""
+    EvaluatedDefinition="Reed Georgeson">Reed Georgeson</Variable>
+  <Variable
+    Name="playerNameBackup1Last"
+    Comment=""
+    EvaluatedDefinition="Georgeson">Georgeson</Variable>
+  <Variable
+    Name="league"
+    Comment=""
+    EvaluatedDefinition="NFL">NFL</Variable>
+  <Variable
+    Name="playerNameBackup2Last"
+    Comment=""
+    EvaluatedDefinition="Rogers">Rogers</Variable>
+  <Variable
+    Name="playerNameBackup2"
+    Comment=""
+    EvaluatedDefinition="Bertie Rogers">Bertie Rogers</Variable>
+  <Variable
+    Name="teamNameAwayPrior"
+    Comment=""
+    EvaluatedDefinition="Cleveland Browns">Cleveland Browns</Variable>
+  <Variable
+    Name="teamNameAwayPriorNN"
+    Comment=""
+    EvaluatedDefinition="Browns">Browns</Variable>
+</CatapultVariableSet>

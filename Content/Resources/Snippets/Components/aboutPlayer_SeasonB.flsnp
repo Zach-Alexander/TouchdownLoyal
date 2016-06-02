@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="494" MadCap:lastWidth="936">
+    <head>
+    </head>
+    <body>
+        <p><MadCap:variable name="TouchdownLoyal.playerName2Last" /> is having an <cite class="SynAltScen">exciting</cite> <MadCap:variable name="TouchdownLoyal.seasonYear" /> season. He has <b class="Synonym">built</b> an <cite class="SynAltScen">impressive</cite> <MadCap:variable name="TouchdownLoyal.statDecimal" /> passer rating overall, completing <MadCap:variable name="TouchdownLoyal.statThree" /> out of <MadCap:variable name="TouchdownLoyal.statThree" /> passes. On average, <MadCap:variable name="TouchdownLoyal.playerName2Last" /> has gained <MadCap:variable name="TouchdownLoyal.statDecimal" /> yards per attempt, passing for <MadCap:variable name="TouchdownLoyal.statFour" /> yards this season. <MadCap:variable name="TouchdownLoyal.playerName2Last" /> has thrown <MadCap:variable name="TouchdownLoyal.statTwo" /> touchdown passes, ranked <MadCap:variable name="TouchdownLoyal.rank" />. The <MadCap:snippetText src="../playerPositionsFull.flsnp" />’s <cite class="SynAltScen">lower</cite> passer rating can be attributed to his <MadCap:variable name="TouchdownLoyal.statTwo" /> interceptions and <MadCap:variable name="TouchdownLoyal.statTwo" /> sacks this season for <MadCap:variable name="TouchdownLoyal.statThree" /> lost yards.</p>
+        <div MadCap:conditions="General.InternalNote">
+            <h2>
+                <MadCap:toggler targets="Alternate Scenarios">Alternate Scenarios</MadCap:toggler>
+            </h2>
+            <div MadCap:targetName="Alternate Scenarios">
+                <h3>
+                    <MadCap:toggler targets="QB Passer Rating">
+                        <MadCap:snippetText src="../playerPositions.flsnp" /> Passer Rating</MadCap:toggler>
+                </h3>
+                <table style="width: 100%;" MadCap:targetName="QB Passer Rating">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>
+                                <MadCap:snippetText src="../playerPositions.flsnp" /> is in the top 25% for passer rating</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerName2Last" /> is having an <cite class="SynAltScen">exciting </cite><MadCap:variable name="TouchdownLoyal.seasonYear" /> season</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <MadCap:snippetText src="../playerPositions.flsnp" /> is in the middle 50% for passer rating</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerName2Last" /> is having a <cite class="SynAltScen">fair</cite> <MadCap:variable name="TouchdownLoyal.seasonYear" />season</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <MadCap:snippetText src="../playerPositions.flsnp" /> is in the bottom 25% for passer rating</td>
+                            <td><MadCap:variable name="TouchdownLoyal.playerName2Last" /> is having a <cite class="SynAltScen">dismal</cite> <MadCap:variable name="TouchdownLoyal.seasonYear" /> season</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <h3>
+                    <MadCap:toggler targets="Comparing QB passer rating">Comparing <MadCap:snippetText src="../playerPositions.flsnp" /> Passer Rating</MadCap:toggler>
+                </h3>
+                <table style="width: 100%;" MadCap:targetName="Comparing QB passer rating">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>QB has higher passer rating than the other</td>
+                            <td>higher</td>
+                        </tr>
+                        <tr>
+                            <td>QB has a similar passer rating to other (+/- 10)</td>
+                            <td>similar</td>
+                        </tr>
+                        <tr>
+                            <td>QB has a lower passer rating than the other</td>
+                            <td>lower</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>
